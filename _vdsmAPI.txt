@@ -1,5 +1,6 @@
 _getDiskStats|
 |getReadDelay|
+|_processLogs|
 |grant|
 |storageRefresh|
 |wrapper|
